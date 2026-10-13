@@ -1,0 +1,6 @@
+{
+  "name": "Parafit Delivers",
+  "description": "Healthy meal delivery and daily subscriptions in East of Kailash, South Delhi. Cooked fresh daily with cold-pressed oils, zero maida, and no refined sugar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
